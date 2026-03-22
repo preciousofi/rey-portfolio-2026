@@ -7,8 +7,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I'm currently building my frontend development skills
-- 🌱 I'm learning **HTML, CSS, JavaScript and Git**
-- 💡 I enjoy turning ideas into real working apps
+- 🌱 I'm currently learning Advanced JavaScript, React and Building real world projects
+- 💡 I enjoy turning ideas into real, working web applications
 - 🚀 Goal: Become a professional frontend developer
 - 📍 Based in Nigeria
 
