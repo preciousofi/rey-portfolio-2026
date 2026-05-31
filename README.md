@@ -4,7 +4,7 @@ Modern frontend developer focused on building responsive websites, SaaS products
 
 ## 🚀 Live Portfolio
 
-[View Portfolio] https://rey-portfolio-2026-2plu.vercel.app/
+[View Portfolio] https://rey-portfolio-2026.vercel.app/
 
 ---
 
